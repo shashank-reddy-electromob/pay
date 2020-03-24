@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259119235571",
+    "firebase_url": "https://paymatrix-android-app.firebaseio.com",
+    "project_id": "paymatrix-android-app",
+    "storage_bucket": "paymatrix-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259119235571:android:4b2fde344a87134c285286",
+        "android_client_info": {
+          "package_name": "com.nitish.paymatrixandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259119235571-469qrdr4fbhv4e2sb5id5pvd20gib4l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXP5oUVtk0OS0l1PPpj5oNXUQonEf69w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259119235571-469qrdr4fbhv4e2sb5id5pvd20gib4l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
